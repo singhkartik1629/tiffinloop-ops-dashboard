@@ -1,0 +1,533 @@
+subscriber_id,subscriber_name,city,phone,assigned_cook_id,meal_plan,cuisine_pref,diet,subscription_status,start_date
+SUB0001,Prakash Khan,MUM,,CK035,Lunch Only,Gujarati,Veg,active,2026-01-24
+SUB0002,Chetan Shah,Bangalore,09459672275,CK004,Lunch + Dinner,Punjabi,Jain,active,2026-08-27
+SUB0003,Chetan Bhatt,Blr,9170149810,CK053,Lunch Only,Continental,Jain,active,2026-07-26
+SUB0004,Harish Gupta,Blr,9296429508,CK070,Lunch + Dinner,North Indian,Jain,paused,2026-04-16
+SUB0005,Sameer Sheikh,MUM,+91 99399 33063,CK063,Lunch + Dinner,Bengali,Veg,active,2026-06-09
+SUB0006,Anjali D'Souza,BLR,9449780371,CK032,Dinner Only,North Indian,Veg,active,2026-07-27
+SUB0007,Harish Sheikh,Pune,9242733744,CK051,Lunch + Dinner,Maharashtrian,Veg,active,2025-10-08
+SUB0008,Alok Chatterjee,Blr,9892493869,CK083,Dinner Only,North Indian,Veg,active,2026-05-15
+SUB0009,Bhavna Desai,Blr,9525276493,CK044,Lunch Only,North Indian,Veg,paused,2026-01-02
+SUB0010,Ritu Verma,Bengaluru,9501446613,CK014,Dinner Only,Maharashtrian,Non-Veg,active,2026-05-22
+SUB0011,Deepa Sheikh,Bengaluru,+91 99321 47984,CK037,Lunch Only,Punjabi,Veg,active,2026-07-26
+SUB0012,Gopal Gupta,Mumbai,,CK056,Dinner Only,Punjabi,Jain,active,2026-08-30
+SUB0013,Naveen Mehta,Blr,9183681820,CK040,Dinner Only,Gujarati,Veg,active,2025-12-12
+SUB0014,Pooja Bhatt,BLR,9801216066,CK065,Lunch + Dinner,Gujarati,Veg,active,2026-05-03
+SUB0015,Ashok Rodrigues,BLR,9544615043,CK047,Dinner Only,North Indian,Jain,paused,2025-10-24
+SUB0016,Manoj Ahmed,Bengaluru,9197160770,CK061,Dinner Only,Maharashtrian,Veg,active,2026-01-26
+SUB0017,Zoya Reddy,Mumbai,+91 94981 90306,CK011,Lunch Only,South Indian,Veg,active,2026-07-06
+SUB0018,Harish Desai,Bengaluru,09999035750,CK032,Dinner Only,North Indian,Veg,active,2026-04-10
+SUB0019,Sanjay Malhotra,Bangalore,+91 93105 74666,CK060,Lunch Only,Gujarati,Veg,active,2025-12-03
+SUB0020,Pooja Verma,BLR,09975797233,CK061,Lunch Only,Maharashtrian,Veg,active,2025-12-05
+SUB0021,Rajesh Khan,MUM,+91 96906 13656,CK054,Dinner Only,South Indian,Veg,active,2025-10-21
+SUB0022,Nadia Fernandes,BLR,9125099022,CK044,Dinner Only,North Indian,Non-Veg,active,2026-01-23
+SUB0023,Kavita Gupta,BLR,9492272589,CK070,Dinner Only,North Indian,Veg,active,2026-01-03
+SUB0024,Sameer Fernandes,Bangalore,,CK003,Lunch + Dinner,North Indian,Veg,active,2026-03-09
+SUB0025,Madhavi Singh,Mumbai,9628141355,CK068,Lunch Only,Gujarati,Veg,active,2025-10-02
+SUB0026,Madhavi Chatterjee,Mumbai,9758774669,CK082,Dinner Only,South Indian,Veg,active,2026-07-07
+SUB0027,Rahul Shah,Blr,9313612507,CK075,Lunch Only,Bengali,Veg,active,2025-10-28
+SUB0028,Vijay Singh,Pune,+91 91521 53331,CK062,Dinner Only,Maharashtrian,Jain,active,2026-01-30
+SUB0029,Naveen Chatterjee,BLR,+91 94961 51114,CK014,Dinner Only,Maharashtrian,Non-Veg,active,2026-04-02
+SUB0030,Suresh Bose,Mumbai,9372357296,CK033,Lunch + Dinner,South Indian,Veg,active,2025-10-14
+SUB0031,Madhavi Bhatt,Pune,9650483794,CK018,Lunch Only,Continental,Veg,active,2026-07-13
+SUB0032,Swati Bose,Bengaluru,9483488556,CK003,Dinner Only,North Indian,Veg,active,2025-11-24
+SUB0033,Ritu Mehta,Blr,9960607053,CK020,Lunch Only,Bengali,Veg,active,2026-01-31
+SUB0034,Ravi Patel,BLR,09703798500,CK023,Lunch + Dinner,Bengali,Jain,active,2025-10-23
+SUB0035,Indu Ansari,Bangalore,,CK081,Lunch Only,Gujarati,Jain,active,2026-02-23
+SUB0036,Preeti Desai,Bengaluru,9314231104,CK032,Lunch + Dinner,North Indian,Veg,active,2026-01-02
+SUB0037,Ashok Bhatt,MUM,,CK031,Lunch + Dinner,South Indian,Veg,active,2026-01-17
+SUB0038,Yusuf Reddy,Bombay,9585854473,CK005,Lunch Only,Continental,Jain,active,2026-05-08
+SUB0039,Vijay Patel,Blr,+91 96946 25073,CK003,Lunch + Dinner,North Indian,Veg,paused,2025-12-25
+SUB0040,Ravi Mehta,Pune,+91 93535 20421,CK051,Lunch Only,Maharashtrian,Veg,paused,2026-06-29
+SUB0041,Rahul Khan,Bombay,09777204713,CK026,Lunch + Dinner,Continental,Veg,active,2025-12-18
+SUB0042,Sanjay Rodrigues,Bengaluru,9947399622,CK081,Lunch + Dinner,Gujarati,Veg,active,2025-11-23
+SUB0043,Neha Malhotra,Bengaluru,09470294553,CK032,Lunch + Dinner,North Indian,Veg,active,2026-09-04
+SUB0044,Kavita Rodrigues,Bengaluru,+91 93140 09839,CK020,Lunch + Dinner,Bengali,Veg,active,2025-10-13
+SUB0045,Rajesh Patel,Bangalore,,CK060,Lunch + Dinner,Gujarati,Veg,active,2026-08-05
+SUB0046,Neha Bhatt,Bombay,9442672763,CK050,Dinner Only,Punjabi,Non-Veg,active,2026-09-08
+SUB0047,Chetan Fernandes,Blr,+91 94088 60505,CK047,Lunch Only,North Indian,Veg,paused,2026-02-19
+SUB0048,Suresh Pinto,Blr,09867070496,CK081,Lunch Only,Gujarati,Veg,active,2025-11-28
+SUB0049,Nisha Patel,Mumbai,,CK013,Dinner Only,South Indian,Non-Veg,active,2026-08-01
+SUB0050,Mahesh Chatterjee,Blr,9270612594,CK036,Lunch Only,Gujarati,Jain,paused,2025-09-25
+SUB0051,Preeti Singh,Bengaluru,9481840913,CK032,Dinner Only,North Indian,Veg,active,2025-09-02
+SUB0052,Salman Pinto,Bangalore,09507275799,CK002,Lunch + Dinner,North Indian,Non-Veg,active,2026-05-22
+SUB0053,Kiran Gupta,PUNE,+91 95835 13002,CK027,Lunch + Dinner,Bengali,Veg,active,2026-04-06
+SUB0054,Yusuf Bhatt,Bangalore,9355486571,CK069,Dinner Only,Bengali,Veg,active,2026-04-17
+SUB0055,Mitali Mishra,MUM,9474340855,CK072,Dinner Only,North Indian,Veg,active,2026-06-14
+SUB0056,Pooja Gupta,Bengaluru,9887366929,CK014,Dinner Only,Maharashtrian,Veg,active,2026-06-10
+SUB0057,Yusuf Patel,Bangalore,,CK014,Dinner Only,Maharashtrian,Non-Veg,paused,2025-09-28
+SUB0058,Chetan Khan,Bengaluru,,CK047,Lunch Only,North Indian,Jain,active,2026-02-10
+SUB0059,Bhavna Verma,Mumbai,9788847066,CK048,Dinner Only,Bengali,Jain,active,2026-04-11
+SUB0060,Prakash Mehta,Bangalore,9554815397,CK014,Lunch Only,Maharashtrian,Non-Veg,active,2025-11-04
+SUB0061,Ravi Khan,MUM,9214224676,CK042,Lunch + Dinner,Punjabi,Veg,active,2026-05-30
+SUB0062,Yusuf Pinto,Bengaluru,9610817133,CK037,Lunch + Dinner,Punjabi,Veg,active,2026-03-13
+SUB0063,Deepa Khan,Bangalore,+91 92314 20231,CK065,Lunch + Dinner,Gujarati,Veg,paused,2026-03-20
+SUB0064,Ravi Reddy,Bombay,+91 95515 58971,CK024,Lunch + Dinner,Continental,Non-Veg,active,2026-03-22
+SUB0065,Kiran Verma,Blr,9520866801,CK014,Lunch Only,Maharashtrian,Veg,active,2026-07-14
+SUB0066,Sanjay Gupta,PUNE,+91 97859 02498,CK021,Dinner Only,Gujarati,Veg,active,2026-01-22
+SUB0067,Sanjay Chatterjee,PUNE,9838145425,CK074,Dinner Only,South Indian,Veg,active,2025-10-06
+SUB0068,Ashok Shah,Blr,+91 95600 91146,CK001,Lunch Only,Maharashtrian,Non-Veg,active,2025-10-16
+SUB0069,Alok Shah,PUNE,9250755191,CK027,Dinner Only,Bengali,Jain,active,2025-10-29
+SUB0070,Vijay Malhotra,Bengaluru,09253257911,CK001,Lunch Only,Maharashtrian,Veg,active,2026-01-30
+SUB0071,Manoj Malhotra,BLR,09753229242,CK023,Lunch Only,Bengali,Veg,active,2025-10-11
+SUB0072,Shweta Fernandes,Pune,,CK074,Dinner Only,South Indian,Non-Veg,active,2025-10-10
+SUB0073,Vikram D'Souza,PUNE,9162765011,CK074,Lunch Only,South Indian,Veg,active,2025-09-25
+SUB0074,Vaishali Ansari,Bengaluru,+91 96343 00904,CK077,Dinner Only,Continental,Veg,active,2026-03-11
+SUB0075,Priya Sharma,Blr,+91 98329 23356,CK010,Dinner Only,North Indian,Veg,active,2026-08-01
+SUB0076,Ayesha Bhatt,Bengaluru,09201431353,CK077,Dinner Only,Continental,Veg,active,2026-03-28
+SUB0077,Salman Chatterjee,Blr,9987689060,CK081,Dinner Only,Gujarati,Veg,active,2026-01-09
+SUB0078,Harish Singh,Blr,+91 94404 77083,CK079,Lunch Only,Bengali,Jain,paused,2025-11-22
+SUB0079,Zoya Pinto,PUNE,9527866884,CK021,Lunch Only,Gujarati,Veg,active,2026-08-26
+SUB0080,Prakash Malhotra,BLR,9189124019,CK075,Lunch + Dinner,Bengali,Veg,active,2025-10-29
+SUB0081,Ayesha Singh,Bangalore,9804071242,CK036,Lunch Only,Gujarati,Veg,active,2026-04-13
+SUB0082,Sameer Sharma,Bangalore,+91 97890 89771,CK045,Lunch Only,North Indian,Non-Veg,active,2026-01-07
+SUB0083,Zoya Sheikh,BLR,,CK003,Lunch + Dinner,North Indian,Veg,active,2026-03-04
+SUB0084,Amit Bhatt,BLR,+91 92629 55599,CK023,Dinner Only,Bengali,Jain,active,2026-09-16
+SUB0085,Rohini Saxena,Bangalore,,CK017,Lunch + Dinner,Gujarati,Veg,active,2025-12-01
+SUB0086,Pooja Reddy,Blr,+91 96985 99171,CK036,Dinner Only,Gujarati,Veg,active,2025-10-11
+SUB0087,Suresh Sharma,pune,+91 98372 73297,CK051,Lunch Only,Maharashtrian,Veg,active,2026-03-03
+SUB0088,Alok Sheikh,Bengaluru,9278746081,CK032,Lunch Only,North Indian,Veg,active,2026-03-17
+SUB0089,Tanvi Pandey,PUNE,9708614627,CK027,Dinner Only,Bengali,Jain,active,2026-08-18
+SUB0090,Ravi Gupta,MUM,+91 94313 54301,CK050,Lunch Only,Punjabi,Non-Veg,active,2026-03-10
+SUB0091,Ravi Shah,BLR,9553655942,CK060,Lunch Only,Gujarati,Veg,active,2026-04-24
+SUB0092,Preeti D'Souza,Bombay,9191336297,CK068,Dinner Only,Gujarati,Veg,paused,2026-03-07
+SUB0093,Yusuf Desai,Bengaluru,+91 97296 29680,CK041,Dinner Only,North Indian,Non-Veg,active,2026-01-26
+SUB0094,Bhavna Fernandes,Bengaluru,9994779137,CK083,Dinner Only,North Indian,Non-Veg,active,2026-01-02
+SUB0095,Nisha Agarwal,Bangalore,9485355797,CK037,Lunch + Dinner,Punjabi,Veg,active,2026-07-04
+SUB0096,Girish Shetty,Bengaluru,9741251925,CK077,Dinner Only,Continental,Veg,active,2025-12-27
+SUB0097,Alok D'Souza,Mumbai,9329333111,CK009,Dinner Only,Bengali,Veg,paused,2026-02-12
+SUB0098,Gopal Desai,Blr,9506091329,CK069,Lunch Only,Bengali,Veg,active,2026-09-01
+SUB0099,Yamini Dubey,Bengaluru,09858465840,CK070,Dinner Only,North Indian,Jain,active,2026-04-08
+SUB0100,Manoj Agarwal,Bangalore,9873858080,CK012,Lunch Only,Bengali,Non-Veg,active,2026-05-10
+SUB0101,Mahesh Bhatt,Pune,9619073648,CK018,Lunch Only,Continental,Veg,active,2026-04-09
+SUB0102,Bhavna Rodrigues,MUM,9800633119,CK084,Dinner Only,South Indian,Veg,active,2026-03-12
+SUB0103,Nadia Verma,BLR,09827613303,CK017,Dinner Only,Gujarati,Non-Veg,active,2025-09-16
+SUB0104,Madhavi Agarwal,Pune,+91 92500 69150,CK018,Lunch Only,Continental,Veg,active,2026-03-05
+SUB0105,Sameer Verma,Bombay,9774506520,CK050,Dinner Only,Punjabi,Veg,paused,2026-05-28
+SUB0106,Nadia Gupta,MUM,9542147205,CK013,Lunch Only,South Indian,Non-Veg,paused,2026-05-03
+SUB0107,Neha Shah,Bangalore,9618012036,CK047,Lunch + Dinner,North Indian,Jain,active,2026-08-20
+SUB0108,Nisha Singh,MUM,09316489790,CK068,Dinner Only,Gujarati,Veg,active,2026-05-08
+SUB0109,Manoj Patel,PUNE,9415169448,CK038,Lunch + Dinner,Bengali,Veg,active,2026-09-10
+SUB0110,Kiran Bose,Bangalore,9567345470,CK079,Dinner Only,Bengali,Jain,active,2026-05-30
+SUB0111,Sanjay Mehta,Bangalore,+91 91851 11977,CK036,Lunch + Dinner,Gujarati,Veg,active,2025-09-09
+SUB0112,Prakash Desai,Bangalore,9317208140,CK046,Lunch + Dinner,North Indian,Veg,active,2025-09-08
+SUB0113,Prakash D'Souza,Blr,,CK004,Dinner Only,Punjabi,Jain,active,2025-08-24
+SUB0114,Naveen Patel,Bangalore,+91 94985 35728,CK046,Lunch Only,North Indian,Veg,active,2026-03-20
+SUB0115,Siddharth Bhat,Bengaluru,+91 95095 13450,CK069,Lunch Only,Bengali,Veg,active,2026-04-22
+SUB0116,Kiran Pinto,Bombay,09361496728,CK084,Lunch Only,South Indian,Jain,active,2025-11-06
+SUB0117,Lalit Arora,Blr,,CK014,Lunch + Dinner,Maharashtrian,Non-Veg,active,2025-09-05
+SUB0118,Neha Agarwal,Bangalore,9869978265,CK002,Dinner Only,North Indian,Non-Veg,active,2026-07-17
+SUB0119,Zoya Gupta,Bengaluru,09344204474,CK079,Lunch Only,Bengali,Jain,active,2025-10-11
+SUB0120,Imran Ahmed,Bengaluru,9747241072,CK061,Dinner Only,Maharashtrian,Veg,paused,2026-08-23
+SUB0121,Mitali Arora,Mumbai,+91 94442 73498,CK026,Lunch + Dinner,Continental,Non-Veg,active,2026-08-22
+SUB0122,Prakash Sharma,Bangalore,9669940365,CK023,Dinner Only,Bengali,Jain,active,2026-02-09
+SUB0123,Vaishali Bhat,Bangalore,09968945529,CK002,Lunch Only,North Indian,Veg,active,2026-09-01
+SUB0124,Prakash Pinto,MUM,+91 91384 17035,CK049,Dinner Only,North Indian,Non-Veg,active,2026-07-18
+SUB0125,Ashok Agarwal,Bengaluru,9229258394,CK067,Lunch + Dinner,Punjabi,Veg,active,2026-05-04
+SUB0126,Vikram Bose,BLR,9719919428,CK083,Lunch Only,North Indian,Veg,active,2025-09-07
+SUB0127,Esha Pandey,BLR,9316028117,CK083,Dinner Only,North Indian,Non-Veg,active,2026-01-26
+SUB0128,Priya Verma,PUNE,9302726844,CK051,Dinner Only,Maharashtrian,Veg,active,2025-11-23
+SUB0129,Sameer D'Souza,Bangalore,9332079657,CK057,Lunch Only,North Indian,Veg,active,2026-06-29
+SUB0130,Nadia Agarwal,Bengaluru,9217300116,CK057,Lunch + Dinner,North Indian,Non-Veg,active,2025-09-05
+SUB0131,Arun Malhotra,pune,+91 93971 55339,CK064,Lunch + Dinner,Punjabi,Jain,active,2026-08-01
+SUB0132,Prakash Gupta,Bombay,9210978217,CK059,Lunch + Dinner,Gujarati,Jain,active,2025-11-23
+SUB0133,Karan Malhotra,BLR,09507551937,CK061,Lunch + Dinner,Maharashtrian,Veg,active,2026-01-27
+SUB0134,Preeti Malhotra,Blr,9445738178,CK057,Lunch + Dinner,North Indian,Non-Veg,active,2026-01-06
+SUB0135,Vaishali Trivedi,Blr,9349040740,CK052,Dinner Only,North Indian,Veg,active,2026-04-06
+SUB0136,Siddharth Kamath,PUNE,,CK080,Dinner Only,Bengali,Veg,active,2025-12-03
+SUB0137,Salman Fernandes,pune,+91 98807 34170,CK051,Dinner Only,Maharashtrian,Veg,active,2026-01-24
+SUB0138,Charu Ansari,Bengaluru,,CK057,Dinner Only,North Indian,Non-Veg,active,2026-01-05
+SUB0139,Nadia Malhotra,BLR,9730718850,CK023,Lunch + Dinner,Bengali,Veg,active,2025-09-01
+SUB0140,Kavita Bose,Bombay,+91 92186 61068,CK013,Dinner Only,South Indian,Non-Veg,active,2025-09-30
+SUB0141,Mahesh Desai,Bangalore,9301979612,CK079,Lunch Only,Bengali,Jain,active,2025-10-31
+SUB0142,Ravi Sharma,Bengaluru,+91 98416 31198,CK014,Dinner Only,Maharashtrian,Non-Veg,active,2026-02-27
+SUB0143,Deepa D'Souza,MUM,9708840203,CK048,Lunch + Dinner,Bengali,Veg,active,2025-12-20
+SUB0144,Pooja Mehta,BLR,9647058666,CK023,Lunch Only,Bengali,Veg,active,2026-08-11
+SUB0145,Suresh Bhatt,BLR,,CK081,Lunch + Dinner,Gujarati,Jain,active,2026-04-06
+SUB0146,Karan Bhatt,Blr,,CK044,Lunch + Dinner,North Indian,Non-Veg,active,2026-08-17
+SUB0147,Zoya Rodrigues,Bengaluru,9147162616,CK069,Lunch + Dinner,Bengali,Veg,active,2026-05-19
+SUB0148,Qasim Qureshi,Bangalore,09370548266,CK003,Dinner Only,North Indian,Veg,active,2026-08-15
+SUB0149,Zubin Saxena,BLR,9361339057,CK060,Lunch Only,Gujarati,Veg,active,2026-03-19
+SUB0150,Rajesh Shah,BLR,9514032032,CK001,Lunch + Dinner,Maharashtrian,Non-Veg,active,2026-08-16
+SUB0151,Arun Sheikh,pune,9354664395,CK064,Dinner Only,Punjabi,Jain,active,2025-10-13
+SUB0152,Karan Pinto,Bangalore,+91 92372 18214,CK023,Dinner Only,Bengali,Veg,active,2026-05-19
+SUB0153,Pallavi Kamath,BLR,9611051589,CK057,Lunch Only,North Indian,Veg,active,2026-01-30
+SUB0154,Bhavna Agarwal,MUM,+91 95339 53439,CK084,Lunch Only,South Indian,Jain,paused,2026-07-16
+SUB0155,Imran Sharma,MUM,9709542808,CK009,Lunch Only,Bengali,Veg,active,2026-03-03
+SUB0156,Neha Reddy,Mumbai,+91 94881 38612,CK056,Dinner Only,Punjabi,Veg,active,2026-06-12
+SUB0157,Zoya Bose,Bangalore,+91 95987 14886,CK052,Lunch + Dinner,North Indian,Veg,active,2026-07-13
+SUB0158,Swati Ahmed,PUNE,,CK027,Lunch + Dinner,Bengali,Veg,active,2025-09-25
+SUB0159,Rajesh Chatterjee,Bengaluru,9888183830,CK061,Lunch + Dinner,Maharashtrian,Jain,active,2026-08-29
+SUB0160,Pooja Khan,Bangalore,9693075205,CK032,Lunch + Dinner,North Indian,Veg,active,2026-06-19
+SUB0161,Alok Agarwal,Blr,+91 92201 21770,CK041,Lunch + Dinner,North Indian,Non-Veg,paused,2026-04-25
+SUB0162,Anjali Shah,Pune,+91 94711 53068,CK080,Lunch Only,Bengali,Veg,active,2026-02-17
+SUB0163,Mitali Kapoor,Bombay,+91 94653 93827,CK029,Lunch + Dinner,Punjabi,Veg,active,2025-10-01
+SUB0164,Shweta Ahmed,MUM,9935640508,CK050,Lunch Only,Punjabi,Non-Veg,active,2026-08-27
+SUB0165,Prakash Verma,Pune,09368102662,CK074,Lunch Only,South Indian,Non-Veg,active,2026-03-19
+SUB0166,Harish D'Souza,Blr,9359535841,CK012,Lunch + Dinner,Bengali,Veg,active,2026-02-03
+SUB0167,Pooja Rodrigues,Bangalore,+91 94581 69874,CK057,Lunch Only,North Indian,Non-Veg,paused,2025-12-12
+SUB0168,Zoya Desai,BLR,9410676615,CK032,Dinner Only,North Indian,Veg,active,2026-06-05
+SUB0169,Ashok Sheikh,Bangalore,9273215586,CK046,Dinner Only,North Indian,Jain,active,2025-12-01
+SUB0170,Harish Reddy,Bengaluru,09456187097,CK032,Lunch + Dinner,North Indian,Veg,active,2026-05-06
+SUB0171,Sandeep Shah,BLR,,CK077,Lunch Only,Continental,Veg,active,2025-10-24
+SUB0172,Indu Mishra,Bengaluru,9255839934,CK045,Lunch Only,North Indian,Veg,active,2025-10-27
+SUB0173,Sameer Khan,Blr,9986187861,CK032,Lunch Only,North Indian,Veg,active,2026-03-14
+SUB0174,Neha Rodrigues,Bangalore,09980182995,CK058,Dinner Only,North Indian,Jain,active,2026-08-24
+SUB0175,Ashok Malhotra,PUNE,9186149262,CK071,Lunch Only,Bengali,Veg,active,2026-06-27
+SUB0176,Ritu Desai,Bengaluru,9499957469,CK061,Lunch + Dinner,Maharashtrian,Veg,active,2025-12-31
+SUB0177,Ayesha Shah,Bengaluru,,CK047,Lunch Only,North Indian,Veg,active,2025-10-12
+SUB0178,Nadia Rodrigues,PUNE,9709364763,CK027,Lunch Only,Bengali,Veg,active,2025-12-15
+SUB0179,Chetan Malhotra,Bangalore,,CK070,Lunch Only,North Indian,Jain,paused,2025-09-13
+SUB0180,Naveen D'Souza,MUM,9246943893,CK049,Dinner Only,North Indian,Non-Veg,active,2025-12-21
+SUB0181,Nadia Reddy,Pune,9721773286,CK018,Lunch + Dinner,Continental,Veg,active,2026-02-17
+SUB0182,Aditya Shetty,BLR,9317776715,CK044,Lunch Only,North Indian,Non-Veg,active,2026-05-28
+SUB0183,Vijay D'Souza,Mumbai,9591940125,CK024,Lunch + Dinner,Continental,Veg,active,2025-09-27
+SUB0184,Girish Kamath,BLR,9691162320,CK079,Lunch Only,Bengali,Veg,active,2025-11-02
+SUB0185,Omkar Mishra,PUNE,+91 93057 77668,CK074,Lunch Only,South Indian,Veg,active,2026-07-10
+SUB0186,Anjali Sharma,Bangalore,9328850572,CK004,Lunch Only,Punjabi,Jain,active,2025-09-21
+SUB0187,Swati Mehta,Bengaluru,+91 94665 70463,CK012,Lunch + Dinner,Bengali,Veg,paused,2025-10-05
+SUB0188,Kiran Agarwal,Bangalore,+91 91467 11822,CK045,Dinner Only,North Indian,Veg,active,2026-07-29
+SUB0189,Rahul Chatterjee,Bengaluru,9845099302,CK053,Lunch + Dinner,Continental,Veg,paused,2026-02-05
+SUB0190,Vijay Mehta,Bengaluru,09411422697,CK002,Lunch + Dinner,North Indian,Non-Veg,active,2026-03-08
+SUB0191,Karan Sheikh,MUM,,CK048,Dinner Only,Bengali,Jain,paused,2026-07-03
+SUB0192,Girish Dubey,Bengaluru,+91 95215 13040,CK075,Lunch Only,Bengali,Veg,active,2025-09-29
+SUB0193,Naveen Shah,MUM,09434209630,CK029,Lunch + Dinner,Punjabi,Veg,active,2025-11-03
+SUB0194,Yusuf Khan,BLR,9437541237,CK032,Lunch + Dinner,North Indian,Veg,active,2026-01-14
+SUB0195,Chetan Patel,BLR,+91 98805 70683,CK002,Dinner Only,North Indian,Veg,active,2026-03-06
+SUB0196,Kiran Rodrigues,Blr,9850126018,CK079,Lunch + Dinner,Bengali,Jain,active,2025-08-20
+SUB0197,Nisha Verma,Bengaluru,+91 92515 51843,CK037,Dinner Only,Punjabi,Veg,active,2025-08-24
+SUB0198,Zoya Shah,Blr,,CK058,Dinner Only,North Indian,Veg,active,2025-10-10
+SUB0199,Swati Gupta,Bangalore,09107765825,CK075,Lunch + Dinner,Bengali,Jain,active,2026-01-29
+SUB0200,Pooja Bose,Bangalore,+91 93707 09270,CK061,Lunch + Dinner,Maharashtrian,Jain,active,2025-10-16
+SUB0201,Amit Rodrigues,Pune,9723286200,CK062,Dinner Only,Maharashtrian,Veg,active,2026-03-20
+SUB0202,Deepa Chatterjee,PUNE,9686783675,CK064,Lunch Only,Punjabi,Veg,active,2025-11-02
+SUB0203,Omkar Kapoor,Bengaluru,+91 96389 28375,CK002,Lunch Only,North Indian,Veg,active,2026-05-18
+SUB0204,Lalit Trivedi,MUM,9246743361,CK084,Dinner Only,South Indian,Veg,active,2025-12-18
+SUB0205,Girish Dutta,Mumbai,+91 95352 06727,CK005,Dinner Only,Continental,Jain,active,2026-06-21
+SUB0206,Gopal D'Souza,Bengaluru,9529021470,CK065,Dinner Only,Gujarati,Veg,active,2026-09-12
+SUB0207,Gopal Mehta,Bengaluru,,CK053,Lunch Only,Continental,Jain,active,2026-06-03
+SUB0208,Sandeep Rodrigues,Blr,+91 92647 22591,CK012,Lunch + Dinner,Bengali,Non-Veg,active,2025-11-28
+SUB0209,Waseem Trivedi,Bengaluru,9858454434,CK045,Dinner Only,North Indian,Non-Veg,active,2026-03-17
+SUB0210,Ritu Singh,Blr,09931252140,CK046,Lunch Only,North Indian,Veg,active,2025-11-01
+SUB0211,Sandeep Fernandes,Bangalore,9934695837,CK012,Lunch + Dinner,Bengali,Veg,active,2026-03-15
+SUB0212,Manoj Fernandes,MUM,,CK078,Lunch + Dinner,South Indian,Veg,active,2026-05-17
+SUB0213,Yamini Sethi,Blr,09948060129,CK077,Lunch Only,Continental,Veg,paused,2025-10-16
+SUB0214,Suresh Verma,MUM,09540156179,CK008,Dinner Only,Punjabi,Veg,active,2025-10-17
+SUB0215,Salman Verma,Bombay,9318189998,CK019,Dinner Only,Punjabi,Veg,active,2025-10-24
+SUB0216,Karan Gupta,Bangalore,9403402872,CK077,Lunch Only,Continental,Veg,active,2026-01-13
+SUB0217,Chetan Sheikh,Bombay,09155971891,CK019,Lunch Only,Punjabi,Veg,active,2025-09-07
+SUB0218,Omkar Dubey,BLR,09263131378,CK069,Lunch Only,Bengali,Veg,active,2026-07-12
+SUB0219,Farhan Mishra,Pune,,CK027,Dinner Only,Bengali,Jain,active,2025-10-25
+SUB0220,Arun Bhatt,Pune,9140666911,CK064,Lunch + Dinner,Punjabi,Jain,active,2026-05-23
+SUB0221,Sameer Reddy,Bengaluru,09229346822,CK014,Lunch Only,Maharashtrian,Veg,paused,2025-12-23
+SUB0222,Bhaskar Saxena,Bangalore,9669009896,CK036,Dinner Only,Gujarati,Veg,active,2026-08-10
+SUB0223,Deepa Sharma,Bengaluru,09174003166,CK040,Lunch Only,Gujarati,Veg,active,2026-01-01
+SUB0224,Anjali Bhatt,Bengaluru,9402941687,CK058,Lunch + Dinner,North Indian,Jain,active,2026-02-20
+SUB0225,Ayesha Khan,PUNE,+91 95156 21437,CK051,Dinner Only,Maharashtrian,Veg,active,2026-07-07
+SUB0226,Aditya Trivedi,pune,+91 93585 16216,CK018,Lunch + Dinner,Continental,Veg,active,2026-07-21
+SUB0227,Sameer Bhatt,BLR,9817273443,CK003,Lunch + Dinner,North Indian,Veg,active,2026-09-18
+SUB0228,Pallavi Qureshi,BLR,9168846121,CK075,Lunch + Dinner,Bengali,Jain,active,2026-05-05
+SUB0229,Sandeep Verma,Mumbai,9921829896,CK054,Dinner Only,South Indian,Jain,active,2025-09-14
+SUB0230,Nikhil Saxena,Bangalore,9666371160,CK075,Dinner Only,Bengali,Veg,active,2026-05-19
+SUB0231,Nikhil Qureshi,Mumbai,09993483001,CK011,Dinner Only,South Indian,Jain,active,2026-07-18
+SUB0232,Kiran Fernandes,Bengaluru,9811072557,CK045,Dinner Only,North Indian,Non-Veg,active,2026-04-23
+SUB0233,Deepa Fernandes,pune,9830337649,CK021,Dinner Only,Gujarati,Veg,active,2025-12-26
+SUB0234,Imran Chatterjee,MUM,,CK049,Lunch Only,North Indian,Non-Veg,active,2026-09-18
+SUB0235,Karan Shah,Blr,+91 93849 75363,CK004,Lunch Only,Punjabi,Veg,active,2025-12-24
+SUB0236,Nisha Malhotra,Mumbai,+91 91471 37415,CK076,Dinner Only,Gujarati,Veg,active,2026-03-15
+SUB0237,Vijay Agarwal,BLR,9721375368,CK047,Lunch + Dinner,North Indian,Jain,active,2026-06-12
+SUB0238,Gopal Reddy,Pune,,CK080,Dinner Only,Bengali,Non-Veg,active,2026-03-08
+SUB0239,Charu Trivedi,Bengaluru,+91 98526 34004,CK065,Dinner Only,Gujarati,Veg,active,2026-01-19
+SUB0240,Mahesh Sharma,BLR,9895050168,CK010,Lunch + Dinner,North Indian,Jain,active,2026-08-29
+SUB0241,Rajesh Reddy,PUNE,+91 91828 25043,CK051,Lunch Only,Maharashtrian,Veg,active,2026-07-28
+SUB0242,Arun Shah,Bengaluru,+91 91588 17778,CK040,Lunch + Dinner,Gujarati,Jain,active,2026-02-17
+SUB0243,Pooja Shah,Mumbai,09656433555,CK011,Lunch Only,South Indian,Jain,active,2025-12-17
+SUB0244,Ashok Pinto,Blr,+91 95512 07546,CK045,Dinner Only,North Indian,Veg,active,2026-04-16
+SUB0245,Vikram Patel,Blr,9800351236,CK060,Dinner Only,Gujarati,Veg,active,2025-10-17
+SUB0246,Preeti Patel,Blr,9109137423,CK023,Dinner Only,Bengali,Jain,active,2025-12-03
+SUB0247,Nisha Desai,Mumbai,09961636606,CK006,Lunch + Dinner,Punjabi,Non-Veg,active,2026-01-29
+SUB0248,Salman Bhatt,Bangalore,09247100121,CK069,Lunch Only,Bengali,Veg,active,2025-11-17
+SUB0249,Jatin Dubey,BLR,9270676755,CK001,Lunch + Dinner,Maharashtrian,Veg,active,2026-06-05
+SUB0250,Suresh Ahmed,Bangalore,9995030400,CK070,Dinner Only,North Indian,Veg,active,2025-10-02
+SUB0251,Nadia Bose,Bengaluru,+91 97249 77986,CK004,Lunch + Dinner,Punjabi,Veg,active,2025-12-05
+SUB0252,Komal Trivedi,Bombay,09814449157,CK025,Dinner Only,Punjabi,Jain,active,2026-09-02
+SUB0253,Amit Desai,Bangalore,9881941210,CK023,Dinner Only,Bengali,Jain,active,2025-10-06
+SUB0254,Shweta Bhatt,Bengaluru,9665148418,CK003,Dinner Only,North Indian,Jain,active,2026-03-24
+SUB0255,Qasim Shetty,Bangalore,9912012161,CK077,Lunch Only,Continental,Veg,active,2026-01-21
+SUB0256,Neha Sharma,Bengaluru,+91 92634 39402,CK041,Lunch Only,North Indian,Non-Veg,active,2026-06-22
+SUB0257,Bhaskar Qureshi,Bangalore,9993381613,CK069,Lunch Only,Bengali,Veg,active,2025-09-13
+SUB0258,Girish Pandey,Bangalore,,CK014,Lunch + Dinner,Maharashtrian,Veg,active,2025-11-26
+SUB0259,Zubin Trivedi,Blr,9196675204,CK020,Lunch + Dinner,Bengali,Jain,active,2026-01-16
+SUB0260,Rajesh Gupta,Bengaluru,9675511181,CK045,Dinner Only,North Indian,Veg,active,2026-01-22
+SUB0261,Arun Bose,Blr,09318461678,CK083,Lunch Only,North Indian,Veg,active,2025-09-11
+SUB0262,Suresh D'Souza,Mumbai,+91 98531 31819,CK042,Lunch + Dinner,Punjabi,Veg,active,2025-09-03
+SUB0263,Lalit Ansari,Blr,9217695164,CK032,Lunch Only,North Indian,Veg,paused,2026-08-06
+SUB0264,Mahesh Patel,Mumbai,+91 91784 40319,CK015,Lunch Only,North Indian,Veg,active,2026-08-28
+SUB0265,Yusuf Rodrigues,Blr,9111559693,CK036,Dinner Only,Gujarati,Jain,active,2026-02-22
+SUB0266,Pallavi Dutta,Bangalore,+91 93358 39935,CK044,Lunch + Dinner,North Indian,Veg,active,2026-08-15
+SUB0267,Bhaskar Trivedi,PUNE,9783317740,CK071,Lunch + Dinner,Bengali,Veg,active,2026-08-24
+SUB0268,Swati Rodrigues,Mumbai,+91 96288 82069,CK068,Lunch + Dinner,Gujarati,Veg,active,2026-01-07
+SUB0269,Bhavna Mehta,BLR,+91 99860 23628,CK052,Lunch + Dinner,North Indian,Veg,active,2026-04-18
+SUB0270,Vijay Verma,Mumbai,9730958348,CK048,Lunch Only,Bengali,Veg,paused,2026-01-09
+SUB0271,Gopal Khan,BLR,9193521281,CK004,Lunch + Dinner,Punjabi,Jain,active,2026-03-29
+SUB0272,Harish Malhotra,Bombay,,CK078,Lunch Only,South Indian,Veg,active,2026-01-18
+SUB0273,Shweta Reddy,Bangalore,+91 96002 98073,CK052,Dinner Only,North Indian,Non-Veg,active,2026-03-31
+SUB0274,Yamini Arora,BLR,+91 98333 13184,CK046,Dinner Only,North Indian,Veg,active,2026-06-16
+SUB0275,Swati Malhotra,Blr,9523435593,CK055,Dinner Only,Maharashtrian,Veg,active,2026-01-02
+SUB0276,Waseem Dubey,Mumbai,09211391679,CK049,Dinner Only,North Indian,Veg,active,2025-12-03
+SUB0277,Preeti Fernandes,MUM,09244990250,CK024,Dinner Only,Continental,Non-Veg,active,2025-10-12
+SUB0278,Zubin Ansari,BLR,+91 98615 88505,CK079,Dinner Only,Bengali,Jain,active,2025-12-25
+SUB0279,Priya Patel,Bombay,9833938534,CK006,Dinner Only,Punjabi,Non-Veg,active,2026-02-01
+SUB0280,Esha Dubey,BLR,9391473720,CK079,Lunch + Dinner,Bengali,Veg,active,2025-11-27
+SUB0281,Rahul Bose,Blr,9127707111,CK061,Dinner Only,Maharashtrian,Veg,active,2025-10-21
+SUB0282,Devika Saxena,Blr,9717576639,CK060,Lunch Only,Gujarati,Veg,active,2025-12-20
+SUB0283,Kiran Mehta,Bengaluru,+91 91574 41126,CK020,Dinner Only,Bengali,Veg,active,2026-03-18
+SUB0284,Esha Hegde,PUNE,9570617179,CK027,Lunch + Dinner,Bengali,Jain,paused,2026-05-08
+SUB0285,Shweta Malhotra,BLR,9998837682,CK053,Lunch Only,Continental,Jain,active,2026-04-10
+SUB0286,Karan Khan,BLR,9524708022,CK046,Dinner Only,North Indian,Jain,active,2025-10-31
+SUB0287,Alok Bose,Bengaluru,9486334930,CK069,Lunch Only,Bengali,Veg,active,2026-08-14
+SUB0288,Ashok Mehta,MUM,+91 98762 29434,CK009,Lunch + Dinner,Bengali,Non-Veg,active,2026-07-20
+SUB0289,Gopal Agarwal,Bombay,09864677763,CK029,Lunch + Dinner,Punjabi,Non-Veg,active,2025-09-07
+SUB0290,Kavita Ahmed,Bangalore,,CK047,Lunch Only,North Indian,Veg,active,2025-11-29
+SUB0291,Farhan Trivedi,Bombay,+91 98210 71488,CK048,Lunch Only,Bengali,Jain,active,2026-01-05
+SUB0292,Vikram Bhatt,BLR,9855674723,CK047,Dinner Only,North Indian,Veg,active,2025-09-19
+SUB0293,Ashok Singh,Bangalore,09710949923,CK079,Lunch Only,Bengali,Jain,paused,2026-03-18
+SUB0294,Sameer Desai,Bengaluru,,CK081,Lunch + Dinner,Gujarati,Veg,active,2025-08-23
+SUB0295,Nikhil Trivedi,BLR,,CK046,Dinner Only,North Indian,Veg,active,2026-07-24
+SUB0296,Sanjay Desai,Blr,9980978262,CK047,Lunch + Dinner,North Indian,Jain,active,2025-12-18
+SUB0297,Karan Ahmed,Mumbai,9776468196,CK019,Lunch Only,Punjabi,Veg,active,2025-11-23
+SUB0298,Suresh Agarwal,Bangalore,+91 94537 17620,CK060,Dinner Only,Gujarati,Veg,active,2026-08-13
+SUB0299,Rohini Kamath,Bombay,9761086577,CK048,Dinner Only,Bengali,Veg,active,2026-06-26
+SUB0300,Arun Desai,Bengaluru,+91 93160 08426,CK037,Lunch + Dinner,Punjabi,Veg,active,2026-04-20
+SUB0301,Priya Reddy,MUM,9548732624,CK084,Lunch + Dinner,South Indian,Veg,active,2025-09-14
+SUB0302,Manoj Rodrigues,MUM,9480714818,CK043,Lunch Only,South Indian,Veg,active,2025-09-05
+SUB0303,Yusuf Singh,Bengaluru,9265222613,CK057,Dinner Only,North Indian,Non-Veg,active,2026-01-13
+SUB0304,Vikram Singh,PUNE,9369764818,CK062,Lunch Only,Maharashtrian,Jain,paused,2026-03-21
+SUB0305,Kiran Ahmed,Blr,9879247959,CK002,Dinner Only,North Indian,Veg,paused,2026-07-12
+SUB0306,Amit Sheikh,BLR,09318999253,CK017,Lunch + Dinner,Gujarati,Veg,active,2026-08-13
+SUB0307,Shweta Sharma,Bombay,9480739005,CK026,Lunch Only,Continental,Non-Veg,active,2026-07-30
+SUB0308,Bhavna Bhatt,BLR,+91 95720 48465,CK020,Lunch + Dinner,Bengali,Veg,active,2025-09-13
+SUB0309,Rahul Bhatt,Mumbai,+91 96064 98959,CK076,Lunch Only,Gujarati,Veg,active,2026-01-07
+SUB0310,Zubin Pandey,Bangalore,+91 98962 93289,CK010,Lunch Only,North Indian,Veg,active,2026-08-01
+SUB0311,Zoya Verma,Pune,+91 93357 82605,CK038,Lunch Only,Bengali,Veg,active,2025-12-08
+SUB0312,Yusuf Sharma,Bombay,+91 92114 71505,CK082,Lunch + Dinner,South Indian,Jain,active,2026-07-31
+SUB0313,Hema Arora,Blr,,CK081,Lunch Only,Gujarati,Veg,active,2025-12-08
+SUB0314,Sandeep Malhotra,MUM,+91 95262 31301,CK008,Lunch + Dinner,Punjabi,Veg,active,2025-09-02
+SUB0315,Indu Saxena,Bangalore,09757860448,CK036,Lunch + Dinner,Gujarati,Jain,active,2025-12-26
+SUB0316,Vaishali Saxena,Bangalore,9425046409,CK014,Dinner Only,Maharashtrian,Veg,active,2026-07-05
+SUB0317,Anjali Singh,Bengaluru,+91 99239 51866,CK055,Lunch + Dinner,Maharashtrian,Veg,active,2026-03-05
+SUB0318,Qasim Hegde,Bengaluru,+91 92449 97212,CK065,Dinner Only,Gujarati,Veg,paused,2026-08-21
+SUB0319,Vijay Bose,Blr,9130444204,CK047,Lunch Only,North Indian,Jain,active,2026-06-27
+SUB0320,Ravi Ahmed,Blr,9465837586,CK075,Dinner Only,Bengali,Jain,active,2026-04-03
+SUB0321,Neha Patel,Bengaluru,9436801374,CK044,Dinner Only,North Indian,Non-Veg,active,2026-03-15
+SUB0322,Aditya Dubey,Bangalore,09363019894,CK017,Dinner Only,Gujarati,Non-Veg,active,2025-12-27
+SUB0323,Nisha Sharma,MUM,+91 95631 99534,CK084,Lunch Only,South Indian,Veg,active,2025-11-10
+SUB0324,Vijay Sharma,BLR,,CK032,Lunch Only,North Indian,Veg,active,2025-10-25
+SUB0325,Ashok Reddy,Bengaluru,,CK023,Lunch Only,Bengali,Veg,active,2025-12-18
+SUB0326,Harish Bhatt,Bangalore,09838239057,CK058,Dinner Only,North Indian,Veg,active,2026-06-19
+SUB0327,Bhaskar Kamath,PUNE,09201838248,CK051,Dinner Only,Maharashtrian,Veg,active,2026-03-27
+SUB0328,Sanjay Singh,BLR,9962076792,CK040,Dinner Only,Gujarati,Veg,active,2026-04-29
+SUB0329,Mitali Kamath,Mumbai,9382445369,CK076,Lunch Only,Gujarati,Veg,paused,2026-01-15
+SUB0330,Alok Rodrigues,Blr,9169577488,CK004,Dinner Only,Punjabi,Jain,active,2026-07-14
+SUB0331,Vikram Agarwal,pune,9370202828,CK062,Lunch Only,Maharashtrian,Jain,active,2025-12-25
+SUB0332,Mitali Shetty,Mumbai,09308230020,CK076,Dinner Only,Gujarati,Veg,active,2026-03-15
+SUB0333,Imran Agarwal,Bengaluru,9131560677,CK075,Dinner Only,Bengali,Jain,active,2026-07-21
+SUB0334,Nikhil Arora,BLR,9557229800,CK077,Lunch Only,Continental,Veg,active,2026-06-13
+SUB0335,Gopal Pinto,BLR,,CK058,Lunch + Dinner,North Indian,Jain,active,2026-05-28
+SUB0336,Lalit Mishra,Bengaluru,,CK040,Lunch + Dinner,Gujarati,Jain,active,2026-06-23
+SUB0337,Vijay Sheikh,Bengaluru,+91 95949 24716,CK053,Lunch Only,Continental,Veg,active,2026-08-11
+SUB0338,Naveen Reddy,Mumbai,9610000695,CK050,Lunch Only,Punjabi,Non-Veg,active,2026-01-01
+SUB0339,Anjali Pinto,BLR,9929533914,CK079,Lunch + Dinner,Bengali,Veg,active,2026-07-09
+SUB0340,Naveen Bhatt,Bombay,9343620991,CK011,Dinner Only,South Indian,Jain,active,2025-09-13
+SUB0341,Vikram Desai,Blr,+91 94371 82515,CK040,Lunch Only,Gujarati,Veg,active,2026-02-25
+SUB0342,Sanjay Reddy,Blr,09649383114,CK032,Lunch + Dinner,North Indian,Veg,paused,2026-01-10
+SUB0343,Bhaskar Dutta,Mumbai,9590247322,CK015,Dinner Only,North Indian,Veg,active,2026-09-02
+SUB0344,Manoj Verma,Bengaluru,9100169526,CK055,Dinner Only,Maharashtrian,Non-Veg,active,2025-11-12
+SUB0345,Mitali Sethi,Blr,09260147717,CK060,Lunch + Dinner,Gujarati,Veg,active,2026-07-11
+SUB0346,Omkar Bhat,Bangalore,9948273320,CK004,Lunch + Dinner,Punjabi,Veg,active,2025-10-15
+SUB0347,Salman Singh,BLR,9410997681,CK023,Lunch Only,Bengali,Jain,active,2026-07-10
+SUB0348,Mahesh Rodrigues,Blr,9361719946,CK081,Lunch + Dinner,Gujarati,Jain,active,2025-11-22
+SUB0349,Vijay Rodrigues,Bombay,09843136285,CK028,Lunch + Dinner,Punjabi,Veg,active,2026-05-20
+SUB0350,Suresh Malhotra,Bengaluru,+91 93279 92241,CK081,Lunch Only,Gujarati,Jain,active,2026-02-03
+SUB0351,Sanjay Ahmed,Blr,,CK036,Lunch Only,Gujarati,Jain,active,2025-12-15
+SUB0352,Naveen Khan,Blr,9923432034,CK020,Lunch Only,Bengali,Veg,active,2025-10-26
+SUB0353,Zoya Malhotra,Bengaluru,9183530495,CK046,Dinner Only,North Indian,Veg,active,2026-04-01
+SUB0354,Ritu Sharma,BLR,9938632681,CK057,Dinner Only,North Indian,Non-Veg,active,2026-07-21
+SUB0355,Jatin Arora,pune,+91 94230 31100,CK051,Lunch Only,Maharashtrian,Veg,active,2026-08-16
+SUB0356,Chetan Pinto,Mumbai,9702001559,CK076,Lunch Only,Gujarati,Veg,paused,2026-09-16
+SUB0357,Uday Bhat,Mumbai,09943206279,CK008,Lunch Only,Punjabi,Veg,active,2026-09-06
+SUB0358,Kavita Fernandes,Bangalore,9413285069,CK012,Dinner Only,Bengali,Veg,active,2026-05-09
+SUB0359,Kavita Malhotra,Bangalore,,CK012,Dinner Only,Bengali,Non-Veg,active,2026-07-13
+SUB0360,Pooja Desai,Bombay,+91 97016 97350,CK059,Lunch Only,Gujarati,Jain,active,2025-09-29
+SUB0361,Kavita D'Souza,Bangalore,,CK047,Lunch + Dinner,North Indian,Veg,active,2026-07-03
+SUB0362,Ritu Rodrigues,Bangalore,9114117891,CK069,Lunch + Dinner,Bengali,Veg,active,2026-05-31
+SUB0363,Uday Ansari,Blr,9161290912,CK070,Lunch + Dinner,North Indian,Veg,active,2026-09-06
+SUB0364,Deepa Desai,BLR,09811371587,CK047,Lunch Only,North Indian,Veg,active,2026-06-30
+SUB0365,Jatin Saxena,Blr,,CK070,Lunch + Dinner,North Indian,Jain,active,2026-04-10
+SUB0366,Waseem Ansari,Bangalore,9312287172,CK004,Lunch + Dinner,Punjabi,Jain,active,2025-09-16
+SUB0367,Komal Bhat,Blr,9569548842,CK058,Dinner Only,North Indian,Jain,active,2025-10-11
+SUB0368,Ayesha Agarwal,BLR,09937255733,CK069,Dinner Only,Bengali,Veg,paused,2025-11-06
+SUB0369,Preeti Gupta,Blr,,CK070,Lunch + Dinner,North Indian,Veg,active,2025-11-05
+SUB0370,Zubin Sethi,BLR,09868662935,CK010,Lunch Only,North Indian,Jain,active,2026-09-02
+SUB0371,Waseem Qureshi,Bengaluru,9281583716,CK020,Dinner Only,Bengali,Veg,active,2025-08-23
+SUB0372,Rahul Sheikh,Bombay,9225607548,CK056,Lunch + Dinner,Punjabi,Jain,active,2025-09-15
+SUB0373,Nisha Sheikh,Pune,+91 93167 51894,CK071,Lunch Only,Bengali,Veg,active,2025-08-31
+SUB0374,Priya Chatterjee,Blr,09974181719,CK077,Lunch Only,Continental,Veg,active,2025-11-07
+SUB0375,Waseem Bhat,Bangalore,9717285663,CK036,Dinner Only,Gujarati,Jain,active,2025-11-12
+SUB0376,Mitali Hegde,Bangalore,9763389458,CK003,Dinner Only,North Indian,Jain,active,2026-04-26
+SUB0377,Omkar Sethi,BLR,+91 97917 16020,CK041,Lunch + Dinner,North Indian,Veg,active,2026-06-23
+SUB0378,Charu Dutta,Bombay,9429757560,CK072,Lunch + Dinner,North Indian,Veg,active,2025-09-18
+SUB0379,Vikram Pinto,Bangalore,+91 91515 40582,CK004,Lunch + Dinner,Punjabi,Jain,active,2026-01-28
+SUB0380,Shweta Shah,pune,9168738587,CK071,Dinner Only,Bengali,Veg,active,2026-09-05
+SUB0381,Omkar Shetty,PUNE,09313073647,CK018,Lunch + Dinner,Continental,Veg,active,2026-02-25
+SUB0382,Vaishali Arora,Blr,+91 94703 99861,CK075,Dinner Only,Bengali,Jain,active,2025-09-05
+SUB0383,Kiran Reddy,MUM,9547120769,CK048,Lunch + Dinner,Bengali,Veg,active,2026-05-25
+SUB0384,Alok Patel,Bengaluru,9711209963,CK058,Lunch + Dinner,North Indian,Jain,active,2026-07-13
+SUB0385,Swati Singh,Blr,+91 98997 39015,CK012,Lunch Only,Bengali,Veg,active,2026-05-29
+SUB0386,Komal Sethi,BLR,09424016401,CK067,Lunch + Dinner,Punjabi,Veg,active,2025-09-09
+SUB0387,Pallavi Mishra,pune,09702472674,CK071,Lunch Only,Bengali,Veg,active,2026-06-17
+SUB0388,Esha Dutta,Bengaluru,,CK017,Lunch + Dinner,Gujarati,Non-Veg,paused,2025-09-18
+SUB0389,Indu Shetty,Pune,9962650099,CK038,Lunch Only,Bengali,Veg,active,2025-11-14
+SUB0390,Jatin Shetty,Mumbai,+91 91991 67886,CK049,Dinner Only,North Indian,Non-Veg,active,2025-09-16
+SUB0391,Deepa Verma,Bangalore,09316892616,CK044,Lunch + Dinner,North Indian,Non-Veg,active,2025-09-14
+SUB0392,Tanvi Trivedi,Blr,,CK070,Lunch Only,North Indian,Veg,active,2026-02-04
+SUB0393,Vaishali Qureshi,MUM,9785808917,CK076,Lunch + Dinner,Gujarati,Veg,active,2026-03-30
+SUB0394,Tanvi Arora,Bangalore,9425545676,CK044,Lunch + Dinner,North Indian,Veg,active,2026-05-30
+SUB0395,Nisha Mehta,Blr,+91 95722 59366,CK023,Lunch + Dinner,Bengali,Veg,active,2026-01-13
+SUB0396,Mahesh Gupta,Bangalore,9350089963,CK046,Lunch + Dinner,North Indian,Jain,active,2026-03-06
+SUB0397,Tanvi Qureshi,PUNE,+91 95208 16418,CK064,Dinner Only,Punjabi,Veg,active,2025-11-29
+SUB0398,Zoya Ahmed,Blr,+91 92680 07711,CK003,Lunch + Dinner,North Indian,Jain,active,2025-09-01
+SUB0399,Waseem Pandey,MUM,9827189389,CK084,Lunch Only,South Indian,Veg,active,2025-12-11
+SUB0400,Priya Malhotra,Bengaluru,9614988845,CK036,Dinner Only,Gujarati,Jain,active,2026-03-16
+SUB0401,Komal Dutta,Blr,+91 95156 66198,CK002,Lunch + Dinner,North Indian,Non-Veg,active,2026-05-08
+SUB0402,Aditya Qureshi,Blr,,CK060,Dinner Only,Gujarati,Veg,active,2026-04-24
+SUB0403,Shweta Patel,Mumbai,9250950534,CK013,Lunch Only,South Indian,Non-Veg,active,2026-05-29
+SUB0404,Preeti Pinto,Bengaluru,+91 91961 98512,CK045,Lunch Only,North Indian,Veg,paused,2026-02-08
+SUB0405,Farhan Sethi,MUM,9909102635,CK006,Lunch Only,Punjabi,Non-Veg,active,2026-04-17
+SUB0406,Uday Hegde,Bengaluru,9597534115,CK004,Lunch Only,Punjabi,Veg,active,2026-06-09
+SUB0407,Salman Shah,Bombay,9371992882,CK054,Dinner Only,South Indian,Veg,active,2026-09-06
+SUB0408,Swati Bhatt,Pune,9163281447,CK027,Lunch + Dinner,Bengali,Veg,paused,2025-10-05
+SUB0409,Vaishali Shetty,PUNE,9808875934,CK071,Lunch Only,Bengali,Veg,active,2026-08-25
+SUB0410,Imran Mehta,PUNE,9104940757,CK074,Lunch + Dinner,South Indian,Veg,active,2025-12-29
+SUB0411,Alok Khan,pune,9538929886,CK062,Dinner Only,Maharashtrian,Jain,active,2025-11-26
+SUB0412,Arun Chatterjee,PUNE,+91 93265 15479,CK080,Lunch + Dinner,Bengali,Veg,paused,2026-09-16
+SUB0413,Lalit Qureshi,pune,09715909624,CK062,Dinner Only,Maharashtrian,Jain,active,2026-05-01
+SUB0414,Devika Mishra,Mumbai,+91 94157 75301,CK008,Dinner Only,Punjabi,Veg,active,2025-09-23
+SUB0415,Rajesh Malhotra,Pune,09574376797,CK021,Dinner Only,Gujarati,Veg,active,2026-08-08
+SUB0416,Ashok Desai,Mumbai,,CK050,Dinner Only,Punjabi,Non-Veg,active,2026-04-29
+SUB0417,Rohini Bhat,MUM,9441124036,CK015,Lunch + Dinner,North Indian,Non-Veg,active,2026-01-19
+SUB0418,Aditya Mishra,pune,9240826726,CK018,Dinner Only,Continental,Veg,active,2026-05-14
+SUB0419,Amit Reddy,BLR,9136948202,CK079,Lunch + Dinner,Bengali,Veg,active,2026-01-21
+SUB0420,Jatin Qureshi,Bombay,+91 97927 89350,CK008,Lunch Only,Punjabi,Veg,active,2025-10-23
+SUB0421,Sanjay D'Souza,Blr,9340342437,CK079,Lunch Only,Bengali,Jain,active,2026-05-28
+SUB0422,Nadia Desai,BLR,,CK052,Dinner Only,North Indian,Veg,active,2026-04-11
+SUB0423,Ritu Fernandes,Mumbai,9377884704,CK059,Lunch + Dinner,Gujarati,Jain,active,2026-07-19
+SUB0424,Ritu D'Souza,Bangalore,9704752332,CK061,Lunch + Dinner,Maharashtrian,Veg,paused,2026-01-07
+SUB0425,Yamini Trivedi,Mumbai,09220513359,CK048,Lunch Only,Bengali,Jain,active,2026-01-06
+SUB0426,Priya Shah,Bangalore,09233136938,CK055,Dinner Only,Maharashtrian,Non-Veg,active,2025-10-31
+SUB0427,Deepa Agarwal,Bangalore,9304462524,CK058,Lunch + Dinner,North Indian,Jain,active,2026-05-16
+SUB0428,Preeti Reddy,Bombay,+91 96448 84912,CK048,Lunch Only,Bengali,Veg,active,2025-10-11
+SUB0429,Ravi Chatterjee,Bangalore,,CK047,Dinner Only,North Indian,Veg,active,2026-08-05
+SUB0430,Bhavna Pinto,pune,+91 91140 32347,CK062,Lunch Only,Maharashtrian,Veg,active,2026-05-27
+SUB0431,Qasim Sethi,Blr,9128870830,CK017,Lunch + Dinner,Gujarati,Non-Veg,active,2026-02-13
+SUB0432,Omkar Dutta,BLR,+91 95590 72659,CK046,Lunch + Dinner,North Indian,Veg,active,2026-03-05
+SUB0433,Girish Hegde,Blr,9274560519,CK058,Lunch Only,North Indian,Veg,paused,2026-07-24
+SUB0434,Yamini Shetty,Blr,9543131329,CK017,Lunch Only,Gujarati,Veg,active,2025-09-11
+SUB0435,Ravi Verma,Bangalore,9483769097,CK067,Lunch Only,Punjabi,Veg,paused,2026-01-17
+SUB0436,Sanjay Patel,BLR,9640190289,CK067,Lunch Only,Punjabi,Non-Veg,active,2025-11-13
+SUB0437,Tanvi Sethi,PUNE,9184653272,CK038,Dinner Only,Bengali,Veg,active,2026-08-12
+SUB0438,Uday Arora,Bangalore,+91 92139 92248,CK069,Dinner Only,Bengali,Veg,active,2026-06-26
+SUB0439,Zubin Dubey,Bangalore,9460073493,CK077,Lunch + Dinner,Continental,Veg,active,2025-09-03
+SUB0440,Zubin Hegde,Mumbai,9587334268,CK015,Dinner Only,North Indian,Non-Veg,active,2026-09-17
+SUB0441,Amit Pinto,Mumbai,9491193044,CK054,Dinner Only,South Indian,Jain,active,2025-10-15
+SUB0442,Salman Reddy,Bombay,9175651952,CK019,Lunch Only,Punjabi,Veg,active,2026-05-07
+SUB0443,Vijay Desai,pune,,CK021,Dinner Only,Gujarati,Veg,active,2025-12-04
+SUB0444,Ritu Gupta,MUM,9619343245,CK025,Lunch + Dinner,Punjabi,Veg,active,2025-10-02
+SUB0445,Girish Ansari,Bengaluru,,CK036,Lunch + Dinner,Gujarati,Veg,active,2025-09-13
+SUB0446,Karan Mehta,BLR,9570234879,CK032,Lunch Only,North Indian,Veg,active,2026-08-03
+SUB0447,Aditya Saxena,Bangalore,9508653682,CK067,Lunch Only,Punjabi,Veg,active,2026-09-17
+SUB0448,Sameer Pinto,Blr,9731603516,CK057,Lunch + Dinner,North Indian,Veg,paused,2025-12-03
+SUB0449,Siddharth Kapoor,BLR,+91 97003 26895,CK052,Lunch Only,North Indian,Veg,active,2025-11-05
+SUB0450,Bhaskar Shetty,Bengaluru,,CK079,Dinner Only,Bengali,Veg,active,2026-04-30
+SUB0451,Mahesh Pinto,BLR,9411811211,CK069,Lunch + Dinner,Bengali,Veg,active,2026-09-02
+SUB0452,Jatin Kamath,MUM,9588566816,CK035,Dinner Only,Gujarati,Non-Veg,active,2025-09-08
+SUB0453,Vijay Bhatt,Bombay,9117995126,CK072,Lunch Only,North Indian,Veg,active,2026-03-28
+SUB0454,Sanjay Shah,Blr,+91 92165 72289,CK003,Lunch + Dinner,North Indian,Jain,active,2025-09-06
+SUB0455,Harish Patel,Bangalore,+91 94638 77684,CK014,Dinner Only,Maharashtrian,Non-Veg,active,2026-04-24
+SUB0456,Swati Chatterjee,Bangalore,,CK053,Lunch + Dinner,Continental,Veg,active,2026-05-16
+SUB0457,Pooja Agarwal,BLR,09219578607,CK036,Dinner Only,Gujarati,Veg,active,2025-12-31
+SUB0458,Rohini Qureshi,BLR,+91 92224 81403,CK045,Dinner Only,North Indian,Veg,active,2026-07-16
+SUB0459,Alok Malhotra,Mumbai,9205577352,CK049,Lunch Only,North Indian,Veg,active,2026-05-22
+SUB0460,Kiran Bhatt,Bengaluru,9196644336,CK053,Lunch Only,Continental,Veg,active,2026-05-20
+SUB0461,Siddharth Hegde,Blr,9528899827,CK052,Dinner Only,North Indian,Non-Veg,active,2026-05-17
+SUB0462,Preeti Bose,Bengaluru,+91 99334 06599,CK044,Dinner Only,North Indian,Non-Veg,active,2026-09-12
+SUB0463,Deepa Malhotra,Bangalore,09688786933,CK060,Lunch Only,Gujarati,Veg,active,2026-07-27
+SUB0464,Girish Sethi,PUNE,,CK071,Lunch Only,Bengali,Veg,active,2026-06-16
+SUB0465,Swati Fernandes,BLR,9865666386,CK067,Lunch + Dinner,Punjabi,Non-Veg,active,2025-12-22
+SUB0466,Devika Arora,Bangalore,+91 97463 56013,CK058,Lunch + Dinner,North Indian,Jain,active,2026-05-01
+SUB0467,Sandeep Bhatt,Bengaluru,+91 94526 56667,CK012,Lunch Only,Bengali,Non-Veg,active,2026-03-29
+SUB0468,Manoj Desai,Bangalore,9579245757,CK002,Dinner Only,North Indian,Non-Veg,active,2026-05-22
+SUB0469,Farhan Hegde,Blr,+91 94443 91725,CK070,Lunch + Dinner,North Indian,Veg,active,2026-08-28
+SUB0470,Deepa Mehta,Bangalore,9792094979,CK075,Lunch + Dinner,Bengali,Veg,active,2025-11-09
+SUB0471,Omkar Kamath,Bombay,9219473179,CK054,Dinner Only,South Indian,Jain,active,2026-04-17
+SUB0472,Sameer Rodrigues,MUM,9490858564,CK043,Lunch + Dinner,South Indian,Veg,active,2026-06-26
+SUB0473,Anjali Rodrigues,Mumbai,+91 96499 43460,CK050,Dinner Only,Punjabi,Veg,active,2026-08-14
+SUB0474,Sanjay Sheikh,Bengaluru,,CK081,Lunch + Dinner,Gujarati,Veg,active,2026-01-29
+SUB0475,Gopal Malhotra,Blr,,CK036,Dinner Only,Gujarati,Veg,paused,2026-03-12
+SUB0476,Nisha Chatterjee,Bengaluru,09888647414,CK010,Lunch Only,North Indian,Veg,active,2026-02-05
+SUB0477,Sanjay Bose,Mumbai,,CK024,Lunch + Dinner,Continental,Veg,active,2025-12-10
+SUB0478,Omkar Arora,BLR,9336711727,CK023,Lunch + Dinner,Bengali,Jain,active,2025-12-31
+SUB0479,Shweta Sheikh,Bengaluru,9495362557,CK052,Dinner Only,North Indian,Non-Veg,active,2026-01-05
+SUB0480,Harish Khan,Bangalore,9920741204,CK057,Lunch Only,North Indian,Non-Veg,active,2026-01-20
+SUB0481,Rajesh Gupta,Bengaluru,,CK045,Dinner Only,North Indian,Veg,active,2026-01-22
+SUB0482,Nisha Singh,MUM,,CK068,Dinner Only,Gujarati,Veg,active,2026-05-08
+SUB0483,Shweta Patel,Mumbai,,CK013,Lunch Only,South Indian,Non-Veg,active,2026-05-29
+SUB0484,Bhavna Rodrigues,MUM,9800633119,CK084,Dinner Only,South Indian,Veg,active,2026-03-12
+SUB0485,Gopal Pinto,BLR,,CK058,Lunch + Dinner,North Indian,Jain,active,2026-05-28
+SUB0486,Pooja Khan,BLR,,CK010,Lunch Only,North Indian,Jain,active,2026-09-02
+SUB0487,Priya Verma,PUNE,9302726844,CK051,Dinner Only,Maharashtrian,Veg,active,2025-11-23
+SUB0488,Nadia Reddy,Pune,9721773286,CK018,Lunch + Dinner,Continental,Veg,active,2026-02-17
+SUB0489,Ashok Singh,Bangalore,,CK079,Lunch Only,Bengali,Jain,paused,2026-03-18
+SUB0490,Ashok Desai,Mumbai,,CK050,Dinner Only,Punjabi,Non-Veg,active,2026-04-29
+SUB0491,Preeti Bose,Bengaluru,,CK044,Dinner Only,North Indian,Non-Veg,active,2026-09-12
+SUB0492,Nisha Patel,Mumbai,,CK013,Dinner Only,South Indian,Non-Veg,active,2026-08-01
+SUB0493,Salman Sharma,PUNE,,CK080,Dinner Only,Bengali,Veg,active,2025-12-03
+SUB0494,Ravi Sharma,Bengaluru,+91 98416 31198,CK014,Dinner Only,Maharashtrian,Non-Veg,active,2026-02-27
+SUB0495,Neha Ahmed,BLR,9832807068,CK086,Dinner Only,South Indian,Veg,active,2026-02-07
+SUB0496,Neha Gupta,BLR,9868625038,CK086,Dinner Only,South Indian,Veg,active,2026-06-22
+SUB0497,Salman Khan,BLR,9830012893,CK086,Dinner Only,South Indian,Veg,active,2026-07-04
+SUB0498,Arun Mehta,Bengaluru,+91 98345 56432,CK086,Dinner Only,South Indian,Veg,active,2025-11-22
+SUB0499,Mahesh D'Souza,BLR,9835920840,CK086,Lunch Only,South Indian,Veg,active,2026-09-10
+SUB0500,Alok Singh,Bengaluru,9869633802,CK086,Lunch + Dinner,South Indian,Veg,active,2026-02-08
+SUB0501,Chetan Verma,Bengaluru,+91 98511 24577,CK086,Lunch + Dinner,South Indian,Veg,active,2026-06-22
+SUB0502,Bhavna Shah,Bengaluru,9897002747,CK086,Lunch Only,South Indian,Jain,active,2026-01-16
+SUB0503,Farah Gupta,Blr,,CK086,Lunch Only,South Indian,Veg,active,2026-08-16
+SUB0504,Pooja Chatterjee,Blr,+91 98311 56177,CK087,Lunch + Dinner,South Indian,Veg,active,2025-09-08
+SUB0505,Suresh Desai,Bengaluru,+91 98180 40874,CK087,Lunch Only,South Indian,Veg,active,2026-06-05
+SUB0506,Amit Chatterjee,Bengaluru,9844313484,CK087,Dinner Only,South Indian,Veg,active,2026-06-17
+SUB0507,Yusuf Verma,Bangalore,9810024383,CK087,Dinner Only,South Indian,Veg,active,2026-05-17
+SUB0508,Sanjay Sharma,Blr,9865507443,CK087,Lunch Only,South Indian,Veg,active,2026-04-03
+SUB0509,Harish Sharma,Blr,9824514302,CK087,Lunch Only,South Indian,Veg,active,2026-06-03
+SUB0510,Chetan Mehta,Bangalore,9857071704,CK087,Dinner Only,South Indian,Jain,active,2026-02-20
+SUB0511,Tariq Hussain,Bengaluru,9812345678,CK087,Lunch Only,South Indian,Veg,active,2025-10-20
+SUB0512,Tariq Husain,Bangalore,+91 98123 45678,CK087,Lunch Only,South Indian,Veg,active,2025-12-19
+SUB0513,Ayesha Reddy,Blr,9862674805,CK088,Lunch Only,South Indian,Veg,active,2025-11-06
+SUB0514,Salman Rodrigues,Blr,+91 98787 36823,CK088,Lunch Only,South Indian,Veg,active,2025-08-21
+SUB0515,Ritu Chatterjee,Blr,+91 98812 49931,CK088,Lunch Only,South Indian,Veg,active,2026-06-19
+SUB0516,Ayesha Desai,Blr,09864534247,CK088,Lunch Only,South Indian,Veg,active,2025-10-15
+SUB0517,Alok Verma,Mumbai,9885122809,CK090,Lunch + Dinner,Maharashtrian,Veg,active,2026-01-01
+SUB0518,Salman Sharma,Mumbai,+91 98207 17556,CK090,Lunch Only,Maharashtrian,Veg,active,2026-05-09
+SUB0519,Arun D'Souza,Bombay,9894831312,CK090,Lunch Only,Maharashtrian,Veg,active,2026-04-18
+SUB0520,Shweta Gupta,Bombay,+91 98953 01665,CK090,Lunch + Dinner,Maharashtrian,Veg,active,2026-03-01
+SUB0521,Imran Sheikh,Mumbai,9898288429,CK090,Lunch + Dinner,Maharashtrian,Veg,active,2026-04-05
+SUB0522,Suresh Reddy,Mumbai,9855194077,CK090,Dinner Only,Maharashtrian,Veg,active,2026-08-27
+SUB0523,Sandeep Mehta,MUM,9849635344,CK091,Lunch Only,Maharashtrian,Veg,active,2026-08-03
+SUB0524,Ashok Sharma,MUM,9896220091,CK091,Lunch + Dinner,Maharashtrian,Veg,active,2026-03-14
+SUB0525,Prakash Fernandes,MUM,+91 98341 16755,CK091,Lunch + Dinner,Maharashtrian,Veg,active,2026-02-18
+SUB0526,Yusuf Bose,MUM,9826421894,CK091,Dinner Only,Maharashtrian,Veg,active,2026-02-03
+SUB0527,Sanjay Khan,MUM,9861418016,CK091,Lunch Only,Maharashtrian,Veg,active,2026-04-07
+SUB0528,Imran Khan,Pune,+91 98967 38643,CK092,Lunch + Dinner,Punjabi,Non-Veg,active,2025-08-28
+SUB0529,Nadia Chatterjee,Pune,+91 98247 00736,CK092,Lunch Only,Punjabi,Non-Veg,active,2026-07-02
+SUB0530,Karan Agarwal,Pune,+91 98623 12487,CK092,Lunch Only,Punjabi,Non-Veg,active,2025-11-14
+SUB0531,Karan Verma,Pune,9867093331,CK092,Lunch Only,Punjabi,Veg,active,2025-12-05
+SUB0532,Madhavi Sheikh,Pune,9865865602,CK092,Lunch + Dinner,Punjabi,Veg,active,2026-04-16

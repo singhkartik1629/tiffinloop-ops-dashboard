@@ -1,0 +1,93 @@
+cook_id,cook_name,city,cuisine_specialty,serves,phone,status,status_since,joined_date,max_daily_orders
+CK001,Neha Agarwal,Bengaluru,Maharashtrian,"Veg, Non-Veg",9644854973,active,,2026-07-11,30
+CK002,Rajesh Verma,Bengaluru,North Indian,"Veg, Non-Veg",09725988156,active,,2025-11-02,35
+CK003,Ayesha Gupta,Bangalore,North Indian,"Veg, Jain",9713013910,active,,2025-07-03,40
+CK004,Neha Pinto,Bangalore,Punjabi,"Veg, Jain",9705985840,active,,2026-05-11,30
+CK005,Naveen Bose,MUM,Continental,"Veg, Jain",+91 92930 23078,active,,2026-04-22,15
+CK006,Nadia Bose,Bombay,Punjabi,"Veg, Non-Veg",9178598835,active,,2026-01-22,20
+CK007,Preeti Rodrigues,MUM,South Indian,Veg,9978700210,on_leave,2026-09-09,2025-09-03,25
+CK008,Karan D'Souza,Mumbai,Punjabi,Veg,9169793196,active,,2025-08-30,25
+CK009,Mitali Shetty,Bombay,Bengali,"Veg, Non-Veg",,active,,2025-12-31,25
+CK010,Vikram Verma,Bangalore,North Indian,"Veg, Jain",9633120015,active,,2026-01-07,30
+CK011,Ayesha Agarwal,MUM,South Indian,"Veg, Jain",09508495730,active,,2026-06-08,15
+CK012,Deepa Chatterjee,BLR,Bengali,"Veg, Non-Veg",9256418835,active,,2026-02-16,35
+CK013,Suresh Sheikh,MUM,South Indian,"Veg, Non-Veg",09937485860,active,,2025-09-10,35
+CK014,Zoya Patel,BLR,Maharashtrian,"Veg, Non-Veg",9324157762,active,,2026-06-29,25
+CK015,Girish Dubey,Mumbai,North Indian,"Veg, Non-Veg",09175500775,active,,2025-10-14,30
+CK016,Harish Sheikh,Bengaluru,Gujarati,Veg,9434848879,on_leave,2026-09-03,2026-07-03,40
+CK017,Priya Desai,Bangalore,Gujarati,"Veg, Non-Veg",9667212062,active,,2025-09-05,35
+CK018,Vijay Fernandes,pune,Continental,Veg,9279360017,active,,2026-05-02,35
+CK019,Arun Verma,Mumbai,Punjabi,"Veg, Non-Veg",+91 98944 32601,active,,2026-05-14,35
+CK020,Ritu Chatterjee,Bengaluru,Bengali,"Veg, Jain",09749763082,active,,2026-01-08,40
+CK021,Ritu Desai,Pune,Gujarati,Veg,+91 96182 45037,active,,2025-05-21,35
+CK022,Rajesh Khan,Pune,Maharashtrian,"Veg, Non-Veg",9905457188,on_leave,11/09/2026,2025-05-26,20
+CK023,Zoya Reddy,BLR,Bengali,"Veg, Jain",09282540039,active,,2026-08-10,20
+CK024,Ritu Agarwal,MUM,Continental,"Veg, Non-Veg",9688717143,active,,2026-08-17,40
+CK025,Arun Desai,Mumbai,Punjabi,"Veg, Jain",,active,,2026-05-08,25
+CK026,Farhan Bhat,Bombay,Continental,"Veg, Non-Veg",,active,,2025-08-11,25
+CK027,Mahesh Gupta,pune,Bengali,"Veg, Jain",9662110918,active,,2025-06-04,30
+CK028,Pooja D'Souza,Mumbai,Punjabi,Veg,+91 92292 10455,active,,2026-03-11,40
+CK029,Suresh Verma,Mumbai,Punjabi,"Veg, Non-Veg",+91 91453 10712,active,,2025-12-08,30
+CK030,Chetan Fernandes,MUM,Continental,"Veg, Non-Veg",9397625709,on_leave,2026-09-20,2025-11-24,30
+CK031,Arun Sheikh,Bombay,South Indian,"Veg, Non-Veg",,active,,2026-06-23,30
+CK032,Shweta Bose,BLR,North Indian,Veg,9934225020,active,,2025-08-23,40
+CK033,Sanjay Singh,Mumbai,South Indian,"Veg, Jain",9623192278,active,,2025-09-17,20
+CK034,Sameer Reddy,Bangalore,Maharashtrian,"Veg, Jain",9120919637,inactive,2026-09-10,2026-01-02,30
+CK035,Kavita Singh,Bombay,Gujarati,"Veg, Non-Veg",9946498388,active,,2025-06-02,15
+CK036,Vikram Ahmed,Bangalore,Gujarati,"Veg, Jain",+91 98258 21165,active,,2026-04-14,30
+CK037,Karan Patel,Blr,Punjabi,Veg,9296864158,active,,2026-07-18,25
+CK038,Chetan Verma,PUNE,Bengali,Veg,,active,,2025-06-09,15
+CK039,Vikram Patel,Blr,Gujarati,"Veg, Non-Veg",09356018882,inactive,09-Sep-2026,2026-06-03,25
+CK040,Nadia Fernandes,Bangalore,Gujarati,"Veg, Jain",9390471177,active,,2026-08-15,25
+CK041,Ritu Verma,Bangalore,North Indian,"Veg, Non-Veg",+91 92141 18726,active,,2025-09-26,30
+CK042,Ashok Desai,Bombay,Punjabi,"Veg, Non-Veg",9467976293,active,,2025-05-30,40
+CK043,Vikram Sharma,Bombay,South Indian,Veg,,active,,2025-08-10,25
+CK044,Nisha Malhotra,BLR,North Indian,"Veg, Non-Veg",9414669163,active,,2026-05-22,20
+CK045,Sameer Verma,Blr,North Indian,"Veg, Non-Veg",,active,,2025-05-30,25
+CK046,Karan Fernandes,Bengaluru,North Indian,"Veg, Jain",9366480598,active,,2026-08-22,15
+CK047,Priya Bose,Bengaluru,North Indian,"Veg, Jain",9349977372,active,,2025-11-27,20
+CK048,Sameer D'Souza,MUM,Bengali,"Veg, Jain",,active,,2025-08-19,35
+CK049,Prakash Ahmed,MUM,North Indian,"Veg, Non-Veg",9972113422,active,,2025-05-16,35
+CK050,Bhavna Bhatt,Mumbai,Punjabi,"Veg, Non-Veg",9133458365,active,,2025-10-02,25
+CK051,Prakash Sharma,pune,Maharashtrian,Veg,9830857592,active,,2026-04-11,15
+CK052,Kiran Reddy,Bengaluru,North Indian,"Veg, Non-Veg",9608801609,active,,2026-07-17,25
+CK053,Imran Reddy,BLR,Continental,"Veg, Jain",9834113597,active,,2026-08-01,35
+CK054,Vijay Bhatt,Mumbai,South Indian,"Veg, Jain",+91 94268 65412,active,,2026-06-17,15
+CK055,Shweta D'Souza,Bengaluru,Maharashtrian,"Veg, Non-Veg",9654625978,active,,2025-12-29,30
+CK056,Hema Trivedi,Mumbai,Punjabi,"Veg, Jain",9980358440,active,,2026-01-06,25
+CK057,Kiran Chatterjee,Bangalore,North Indian,"Veg, Non-Veg",+91 92423 83608,active,,2025-10-05,35
+CK058,Harish Khan,Bangalore,North Indian,"Veg, Jain",,active,,2026-08-23,30
+CK059,Imran Shah,Bombay,Gujarati,"Veg, Jain",,active,,2026-03-08,15
+CK060,Ravi Bose,Bengaluru,Gujarati,Veg,9169768902,active,,2025-06-05,35
+CK061,Neha Patel,Bengaluru,Maharashtrian,"Veg, Jain",+91 94066 85565,active,,2026-06-09,20
+CK062,Salman Sharma,Pune,Maharashtrian,"Veg, Jain",9777419209,active,,2025-06-02,35
+CK063,Nadia Malhotra,MUM,Bengali,"Veg, Jain",09792016625,active,,2025-12-19,15
+CK064,Gopal Bose,PUNE,Punjabi,"Veg, Jain",+91 98935 30107,active,,2025-09-24,25
+CK065,Manoj Bhatt,BLR,Gujarati,Veg,9323201421,active,,2025-07-05,30
+CK066,Rahul Reddy,MUM,Gujarati,Veg,9696865256,inactive,2026-09-08,2026-04-24,25
+CK067,Ayesha Khan,Bengaluru,Punjabi,"Veg, Non-Veg",9662821260,active,,2026-04-08,25
+CK068,Mahesh Fernandes,Bombay,Gujarati,Veg,9331888663,active,,2025-05-22,20
+CK069,Zubin Saxena,Blr,Bengali,Veg,09920006713,active,,2025-12-25,35
+CK070,Rahul Singh,BLR,North Indian,"Veg, Jain",9263282031,active,,2025-09-09,15
+CK071,Preeti Patel,PUNE,Bengali,Veg,,active,,2026-06-21,20
+CK072,Prakash Chatterjee,Bombay,North Indian,Veg,+91 95696 87450,active,,2026-06-28,15
+CK073,Ravi Sharma,Bangalore,Punjabi,"Veg, Non-Veg",9594662796,on_leave,2026-09-16,2026-03-16,40
+CK074,Rahul Sharma,Pune,South Indian,"Veg, Non-Veg",+91 98566 16105,active,,2026-07-27,15
+CK075,Sanjay Ahmed,Bengaluru,Bengali,"Veg, Jain",9343509688,active,,2025-09-02,25
+CK076,Nisha Fernandes,Mumbai,Gujarati,Veg,,active,,2025-12-14,20
+CK077,Vijay Bose,BLR,Continental,Veg,,active,,2025-10-09,30
+CK078,Chetan Gupta,MUM,South Indian,Veg,9158366867,active,,2025-10-23,20
+CK079,Sameer Singh,BLR,Bengali,"Veg, Jain",9277847876,active,,2026-05-22,40
+CK080,Imran Agarwal,PUNE,Bengali,"Veg, Non-Veg",9575061127,active,,2026-08-23,15
+CK081,Vikram Ahmed,Bangalore,Gujarati,"Veg, Jain",+91 98258 21165,active,,2025-08-01,30
+CK082,Ayesha Agarwal,MUM,South Indian,"Veg, Jain",,active,,2026-02-23,15
+CK083,Sameer Verma,Blr,North Indian,"Veg, Non-Veg",,active,,2026-03-19,25
+CK084,Vijay Bhatt,Mumbai,South Indian,"Veg, Jain",+91 94268 65412,active,,2026-01-15,15
+CK085,Harish Sheikh,Bengaluru,Gujarati,Veg,,on_leave,2026-09-03,2025-08-28,40
+CK086,Lakshmi Iyer,Bengaluru,South Indian,"Veg, Jain",9845012345,on_leave,2026-09-23,2025-12-25,40
+CK087,Geeta Rao,Bangalore,South Indian,"Veg, Jain",+91 98450 67890,on_leave,23/09/2026,2026-05-16,30
+CK088,Meena Nair,Blr,South Indian,"Veg, Non-Veg",09845011122,active,,2026-02-15,12
+CK089,Divya Menon,bangalore,South Indian,"Veg, Jain",9845033344,on_leave,19-Sep-2026,2025-11-20,25
+CK090,Sunita Kulkarni,Mumbai,Maharashtrian,Veg,9820044556,active,,2025-05-11,25
+CK091,Rekha Patil,MUM,Maharashtrian,"Veg, Non-Veg",9820077889,active,,2026-01-08,30
+CK092,Anil Joshi,Pune,Punjabi,"Veg, Non-Veg",9890011223,active,,2026-05-18,25

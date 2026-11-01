@@ -1,0 +1,96 @@
+<div class="min-h-screen bg-[#f4f6f2] text-[#202923]">
+  <header class="border-b border-[#dce3db] bg-white">
+    <div class="mx-auto flex max-w-7xl items-center justify-between px-5 py-4 sm:px-8">
+      <a class="flex items-center gap-3" href="/" aria-label="TiffinLoop Ops home">
+        <span class="grid size-9 place-items-center rounded-md bg-[#174f3b] text-xs font-bold tracking-wide text-white">TL</span>
+        <span class="text-sm font-semibold tracking-wide">TiffinLoop <span class="font-normal text-[#758078]">/ Leadership</span></span>
+      </a>
+      <nav class="flex items-center gap-5 text-sm" aria-label="Main navigation">
+        <a class="text-[#68756c] transition hover:text-[#174f3b]" href="/">Operations</a>
+        <a class="font-semibold text-[#174f3b]" href="/leadership">Leadership</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="mx-auto max-w-7xl px-5 py-8 sm:px-8 sm:py-11">
+    <div class="rise-in flex flex-col gap-3 border-b border-[#dce3db] pb-7 sm:flex-row sm:items-end sm:justify-between">
+      <div>
+        <p class="mb-2 text-xs font-bold uppercase tracking-[0.12em] text-[#738078]">Reliability trends</p>
+        <h1 class="text-3xl font-semibold tracking-tight text-[#202923] sm:text-4xl">Cook dropouts</h1>
+        <p class="mt-2 text-sm text-[#68756c]">Frequency by city and cook over the latest 30-day window in the seed data.</p>
+      </div>
+      <p class="text-sm font-medium text-[#536158]">{{ rangeLabel() }}</p>
+    </div>
+
+    @if (data()) {
+      <section class="rise-in mt-7 grid gap-8 border-b border-[#dce3db] pb-8 sm:grid-cols-3" aria-label="Dropout summary">
+        <div>
+          <p class="text-xs font-bold uppercase tracking-[0.12em] text-[#738078]">Recorded dropouts</p>
+          <p class="mt-2 text-3xl font-semibold text-[#202923]">{{ recentEvents().length }}</p>
+        </div>
+        <div>
+          <p class="text-xs font-bold uppercase tracking-[0.12em] text-[#738078]">Cities affected</p>
+          <p class="mt-2 text-3xl font-semibold text-[#202923]">{{ cityCount() }}</p>
+        </div>
+        <div>
+          <p class="text-xs font-bold uppercase tracking-[0.12em] text-[#738078]">Cooks affected</p>
+          <p class="mt-2 text-3xl font-semibold text-[#202923]">{{ cookCount() }}</p>
+        </div>
+      </section>
+
+      <div class="mt-8 grid gap-10 lg:grid-cols-2">
+        <section aria-labelledby="city-frequency-heading">
+          <div class="mb-4 flex items-end justify-between border-b border-[#dce3db] pb-3">
+            <h2 id="city-frequency-heading" class="text-lg font-semibold text-[#202923]">By city</h2>
+            <span class="text-xs text-[#758078]">dropout events</span>
+          </div>
+          @if (cityRows().length) {
+            <ul class="divide-y divide-[#e5eae4]">
+              @for (row of cityRows(); track row.label) {
+                <li class="grid grid-cols-[minmax(90px,.55fr)_minmax(100px,1fr)_auto] items-center gap-4 py-4">
+                  <span class="text-sm font-semibold text-[#35433a]">{{ row.label }}</span>
+                  <span class="h-2 overflow-hidden rounded-sm bg-[#e6ebe5]">
+                    <span class="block h-full rounded-sm bg-[#277956]" [style.width]="barWidth(row.count, cityRows())"></span>
+                  </span>
+                  <span class="min-w-8 text-right text-sm font-semibold tabular-nums text-[#202923]">{{ row.count }}</span>
+                </li>
+              }
+            </ul>
+          } @else {
+            <p class="py-6 text-sm text-[#68756c]">No dropout events in this 30-day window.</p>
+          }
+        </section>
+
+        <section aria-labelledby="cook-frequency-heading">
+          <div class="mb-4 flex items-end justify-between border-b border-[#dce3db] pb-3">
+            <h2 id="cook-frequency-heading" class="text-lg font-semibold text-[#202923]">By cook</h2>
+            <span class="text-xs text-[#758078]">dropout events</span>
+          </div>
+          @if (cookRows().length) {
+            <ul class="divide-y divide-[#e5eae4]">
+              @for (row of cookRows(); track row.label + row.city) {
+                <li class="grid grid-cols-[minmax(120px,1fr)_minmax(70px,.7fr)_auto] items-center gap-4 py-4">
+                  <span class="min-w-0">
+                    <span class="block truncate text-sm font-semibold text-[#35433a]">{{ row.label }}</span>
+                    <span class="mt-1 block text-xs text-[#7b867e]">{{ row.city }}</span>
+                  </span>
+                  <span class="h-2 overflow-hidden rounded-sm bg-[#e6ebe5]">
+                    <span class="block h-full rounded-sm bg-[#bd7550]" [style.width]="barWidth(row.count, cookRows())"></span>
+                  </span>
+                  <span class="min-w-8 text-right text-sm font-semibold tabular-nums text-[#202923]">{{ row.count }}</span>
+                </li>
+              }
+            </ul>
+          } @else {
+            <p class="py-6 text-sm text-[#68756c]">No dropout events in this 30-day window.</p>
+          }
+        </section>
+      </div>
+    } @else {
+      <div class="mt-8 flex items-center gap-3 py-8 text-sm text-[#68756c]" role="status">
+        <span class="size-4 animate-spin rounded-full border-2 border-[#c8d4ca] border-t-[#277956]"></span>
+        Loading event records…
+      </div>
+    }
+  </main>
+</div>
