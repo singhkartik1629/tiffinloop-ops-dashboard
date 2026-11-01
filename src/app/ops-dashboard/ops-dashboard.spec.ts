@@ -132,6 +132,7 @@ describe('OpsDashboard', () => {
   };
 
   beforeEach(async () => {
+    localStorage.clear();
     testData = createData(3);
     await TestBed.configureTestingModule({
       imports: [OpsDashboard],
@@ -184,9 +185,10 @@ describe('OpsDashboard', () => {
     const content = element.textContent ?? '';
     expect(content).toContain('Simulated SMS messages');
     expect(content).toContain('Resolution traceability');
-    expect(content).toContain('2 subscriber message(s) recorded');
+    expect(content).toContain('Subscriber notifications');
     const messageRows = element.querySelectorAll('section[aria-live="polite"] li');
     expect(messageRows).toHaveLength(2);
     expect([...messageRows].every((row) => row.textContent?.includes('Sent'))).toBe(true);
+    expect(JSON.parse(localStorage.getItem('tiffinloop.traceability.v1') ?? '[]')).toHaveLength(1);
   });
 });

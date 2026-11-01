@@ -15,6 +15,15 @@ interface EventDayOption {
   orderCount: number;
 }
 
+const VISIBLE_ORDER_STATUSES = new Set([
+  'pending',
+  'in_progress',
+  'cook_failure',
+  'ambiguous',
+  'cancelled',
+  'refunded',
+]);
+
 @Component({
   selector: 'app-ops-dashboard',
   templateUrl: './ops-dashboard.html',
@@ -55,25 +64,21 @@ export class OpsDashboard {
     return [...byDate.entries()]
       .map(([date, events]) => {
         const cookIds = new Set(events.map((event) => event.cookId));
-        const orderCount = resolveOrdersForDate(
-          date,
-          data.dropoutEvents,
-          data.cooks,
-          data.subscribers,
-          data.orders,
-        ).length;
         return {
           date,
           cookNames: [...new Set(events.map((event) => event.cookName))].sort(),
-          orderCount: orderCount || data.orders.filter(
-            (order) => order.date === date && order.cookId && cookIds.has(order.cookId),
+          orderCount: data.orders.filter(
+            (order) =>
+              order.date === date &&
+              Boolean(order.cookId && cookIds.has(order.cookId)) &&
+              VISIBLE_ORDER_STATUSES.has(order.status ?? ''),
           ).length,
         };
       })
       .sort((a, b) => b.date.localeCompare(a.date));
   });
   readonly activeDate = computed(
-    () => this.selectedEventDate() || this.operatingDate() || this.eventDays()[0]?.date || '',
+    () => this.selectedEventDate() || this.eventDays()[0]?.date || this.operatingDate(),
   );
   readonly activeEvents = computed(() =>
     this.data()?.dropoutEvents.filter((event) => event.date === this.activeDate()) ?? [],

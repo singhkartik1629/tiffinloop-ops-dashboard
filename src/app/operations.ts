@@ -124,7 +124,7 @@ export function buildDropoutEvents(
 
   for (const message of messages) {
     if (!('classification' in message) || message.classification !== 'dropout') continue;
-    const cook = findMentionedCook(message.message, cooks);
+    const cook = findMentionedCook(message.message, cooks) ?? findMentionedCook(message.sender, cooks);
     if (!cook || !message.date) continue;
     addEvent(cook, message.date, {
       type: 'whatsapp',
@@ -262,7 +262,7 @@ export function resolveOrdersForDate(
   return resolutions;
 }
 
-function findMentionedCook(message: string, cooks: Cook[]): Cook | null {
+export function findMentionedCook(message: string, cooks: Cook[]): Cook | null {
   const text = message.toLowerCase();
   const exactMatches = cooks.filter((cook) => cook.name && text.includes(cook.name.toLowerCase()));
   if (exactMatches.length === 1) return exactMatches[0]!;
